@@ -1,0 +1,22 @@
+{
+  "name": "zolly-and-zeus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollyewhite/zolly-and-zeus.git"
+  },
+  "author": "Holly White and Zeb Girouard",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/hollyewhite/zolly-and-zeus/issues"
+  },
+  "homepage": "https://github.com/hollyewhite/zolly-and-zeus#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
